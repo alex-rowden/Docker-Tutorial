@@ -1,0 +1,2 @@
+# Not original content
+I am basing this repository off of prakhar1989/docker-curriculum from their wonderful tutorial. Rather than copy the code verbatim, I'm making some deviations to better facilitate my understanding.
